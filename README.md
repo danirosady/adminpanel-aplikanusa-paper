@@ -1,4 +1,10 @@
-<p align=""><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture-home.png" width="400"></p>
+<p align=""><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture.png" width="300"></p>
+<p align=""><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture-login.png" width="300"></p>
+<p align=""><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture-register.png" width="300"></p>
+<p align=""><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture-password-reset.png" width="300"></p>
+<p align=""><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture-home.png" width="300"></p>
+<p align=""><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture-karyawan.png" width="300"></p>
+<p align=""><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture-karyawan-edit-1.png" width="300"></p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
