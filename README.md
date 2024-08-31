@@ -1,4 +1,4 @@
-<b align="center">Landing</b>
+<b text-align="center">Landing</b>
 <p align="center"><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture.png" width="500"></p>
 <p align="center"><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture-login.png" width="500"></p>
 <p align="center"><img src="https://github.com/danirosady/adminpanel-aplikanusa-paper/blob/master/public/paper/img/capture/capture-register.png" width="500"></p>
